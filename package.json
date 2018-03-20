@@ -1,0 +1,27 @@
+{
+  "name": "docker-gemini",
+  "version": "1.0.0",
+  "description": "Docker image for running Gemini tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fresh8/docker-gemini.git"
+  },
+  "keywords": [
+    "docker",
+    "gemini"
+  ],
+  "author": "Dom Udall <dom@connected-ventures.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fresh8/docker-gemini/issues"
+  },
+  "homepage": "https://github.com/fresh8/docker-gemini#readme",
+  "dependencies": {
+    "gemini": "^5.5.0",
+    "html-reporter": "^2.7.0"
+  }
+}
