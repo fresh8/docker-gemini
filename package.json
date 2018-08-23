@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/fresh8/docker-gemini#readme",
   "dependencies": {
-    "gemini": "^5.5.0",
+    "gemini": "^5.8.0",
     "html-reporter": "^2.7.0"
   }
 }
